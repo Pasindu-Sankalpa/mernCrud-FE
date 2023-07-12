@@ -6,4 +6,4 @@ All data are stored in [mongoDB Atlas](https://cloud.mongodb.com/) realtime clou
 
 FE deployed URL: [mern-crud-fe.vercel.app](https://mern-crud-fe.vercel.app/){:target="_blank" rel="noopener"}
 
-[go](http://stackoverflow.com){:target="_blank"}
+<a href="placeholder.com" target="_blank">Opens in new tab</a>
